@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazen20-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="mazen20-mohamed" /> </p>
 
-- 🌱 I’m currently learning **Android ,Asp .Net core,and Front End**
+- 🌱 I’m currently learning **Spring Boot, Asp .Net core, and Front End**
 
 - 📫 How to reach me **eldessoukymazen16@gmail.com**
 
