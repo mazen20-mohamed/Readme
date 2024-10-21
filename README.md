@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring, React, and Nodejs**
 
-- 📫 How to reach me **eldessoukymazen16@gmail.com**
+- 📫 How to reach me **eldessoukymazen16@gmail.com**, **https://heylink.me/MazenEldessouk/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
